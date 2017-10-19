@@ -1,0 +1,13 @@
+body{
+    font: bold 15pt sans-serif;
+    max-width: 800px;
+}
+
+label{
+    font-style: italic;
+    font-size: 20pt;
+}
+
+div {
+    padding-bottom: 5px;
+}
