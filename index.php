@@ -9,6 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="mysite.css">
 	</head>
 	<body>
+    <p>ololo</p>
 		<?php
 			$TaskManager = new TaskManager();
 
